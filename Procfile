@@ -1,1 +1,1 @@
-web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser capstone.ipynb --debug
+web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser capstone.ipynb
